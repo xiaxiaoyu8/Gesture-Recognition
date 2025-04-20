@@ -1,0 +1,2 @@
+# Gestures-Recognition
+基于openCV和官方模型文件实现的改良版手势识别
